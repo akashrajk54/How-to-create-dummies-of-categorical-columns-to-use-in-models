@@ -1,0 +1,1 @@
+# How-to-create-dummies-of-categorical-columns-to-use-in-models
